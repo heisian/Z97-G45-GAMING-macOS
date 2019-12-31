@@ -1,0 +1,120 @@
+15:192  0:379  Found BIOS RSDP at F0010
+15:192  0:000  Printing ACPI tables from RSDP F0010 ...
+15:192  0:000   F0010: 'RSD PTR ', Rev: 2 (Acpi 2.0 or newer), Len: 36
+15:192  0:000    (Xsdt: DE53B088, Rsdt: DE53B028)
+15:192  0:000    DE53B088: 'XSDT', 'A M I', Rev: 1, Len: 140
+15:192  0:000    DE53B028: 'RSDT', 'A M I', Rev: 1, Len: 88
+15:192  0:000    Tables in Xsdt: 13
+15:192  0:000    0. DE54D970: 'FACP', 'A M I', Rev: 5, Len: 268
+15:192  0:000        (Dsdt: DE53B1A8, Facs: DE571F80, XDsdt: DE53B1A8, XFacs: 0)
+15:192  0:000        DE53B1A8: 'DSDT', 'A M I', Rev: 2, Len: 75718
+15:192  0:000        DE571F80: 'FACS', Ver: 2, Len: 64
+15:192  0:000    1. DE54DA80: 'APIC', 'A M I', Rev: 3, Len: 146
+15:192  0:000    2. DE54DB18: 'FPDT', 'A M I', Rev: 1, Len: 68
+15:192  0:000    3. DE54DB60: 'ASF!', ' HCG', Rev: 32, Len: 165
+15:192  0:000    4. DE54DC08: 'SSDT', 'Ther_Rvp', Rev: 1, Len: 3054
+15:192  0:000    5. DE54E7F8: 'SSDT', 'Cpu0Ist', Rev: 1, Len: 1337
+15:192  0:000    6. DE54ED38: 'SSDT', 'CpuSsdt', Rev: 1, Len: 2932
+15:192  0:000    7. DE54F8B0: 'MCFG', 'A M I', Rev: 1, Len: 60
+15:192  0:000    8. DE54F8F0: 'HPET', 'A M I', Rev: 1, Len: 56
+15:192  0:000    9. DE54F928: 'SSDT', 'SataTabl', Rev: 1, Len: 877
+15:192  0:000    10. DE54FC98: 'SSDT', 'SaSsdt', Rev: 1, Len: 23390
+15:192  0:000    11. DE5557F8: 'SSDT', 'IsctTabl', Rev: 1, Len: 1401
+15:192  0:000    12. DE555D78: 'BGRT', 'A M I', Rev: 0, Len: 56
+15:192  0:000    Tables in Rsdt: 13
+15:192  0:000    0. DE53B120: 'FACP', 'A M I', Rev: 2, Len: 132
+15:192  0:000        (Dsdt: DE53B1A8, Facs: DE571F40)
+15:192  0:000        DE53B1A8: 'DSDT', 'A M I', Rev: 2, Len: 75718
+15:192  0:000        DE571F40: 'FACS', Ver: 0, Len: 64
+15:192  0:000    1. DE54DA80: 'APIC', 'A M I', Rev: 3, Len: 146
+15:192  0:000    2. DE54DB18: 'FPDT', 'A M I', Rev: 1, Len: 68
+15:192  0:000    3. DE54DB60: 'ASF!', ' HCG', Rev: 32, Len: 165
+15:192  0:000    4. DE54DC08: 'SSDT', 'Ther_Rvp', Rev: 1, Len: 3054
+15:192  0:000    5. DE54E7F8: 'SSDT', 'Cpu0Ist', Rev: 1, Len: 1337
+15:192  0:000    6. DE54ED38: 'SSDT', 'CpuSsdt', Rev: 1, Len: 2932
+15:192  0:000    7. DE54F8B0: 'MCFG', 'A M I', Rev: 1, Len: 60
+15:192  0:000    8. DE54F8F0: 'HPET', 'A M I', Rev: 1, Len: 56
+15:192  0:000    9. DE54F928: 'SSDT', 'SataTabl', Rev: 1, Len: 877
+15:192  0:000    10. DE54FC98: 'SSDT', 'SaSsdt', Rev: 1, Len: 23390
+15:192  0:000    11. DE5557F8: 'SSDT', 'IsctTabl', Rev: 1, Len: 1401
+15:192  0:000    12. DE555D78: 'BGRT', 'A M I', Rev: 0, Len: 56
+15:192  0:000  Found UEFI Acpi 2.0 RSDP at DE53B000
+15:192  0:000  Saving ACPI tables from RSDP DE53B000 to EFI\CLOVER\ACPI\origin ...
+15:192  0:000   DE53B000: 'RSD PTR ', Rev: 2 (Acpi 2.0 or newer), Len: 36
+15:192  0:000    (Xsdt: DE53B088, Rsdt: DE53B028)
+15:192  0:000    DE53B088: 'XSDT', 'A M I', Rev: 1, Len: 140
+15:192  0:000    DE53B028: 'RSDT', 'A M I', Rev: 1, Len: 88
+15:192  0:000    Tables in Xsdt: 13
+15:192  0:000    0. DE54D970: 'FACP', 'A M I', Rev: 5, Len: 268
+15:192  0:000        (Dsdt: DE53B1A8, Facs: DE571F80, XDsdt: DE53B1A8, XFacs: 0)
+15:192  0:000        DE53B1A8: 'DSDT', 'A M I', Rev: 2, Len: 75718
+15:192  0:000        DE571F80: 'FACS', Ver: 2, Len: 64
+15:192  0:000    1. DE54DA80: 'APIC', 'A M I', Rev: 3, Len: 146
+15:192  0:000    2. DE54DB18: 'FPDT', 'A M I', Rev: 1, Len: 68
+15:192  0:000    3. DE54DB60: 'ASF!', ' HCG', Rev: 32, Len: 165
+15:192  0:000    4. DE54DC08: 'SSDT', 'Ther_Rvp', Rev: 1, Len: 3054
+15:192  0:000    5. DE54E7F8: 'SSDT', 'Cpu0Ist', Rev: 1, Len: 1337
+15:192  0:000    6. DE54ED38: 'SSDT', 'CpuSsdt', Rev: 1, Len: 2932
+15:192  0:000    7. DE54F8B0: 'MCFG', 'A M I', Rev: 1, Len: 60
+15:192  0:000    8. DE54F8F0: 'HPET', 'A M I', Rev: 1, Len: 56
+15:192  0:000    9. DE54F928: 'SSDT', 'SataTabl', Rev: 1, Len: 877
+15:192  0:000    10. DE54FC98: 'SSDT', 'SaSsdt', Rev: 1, Len: 23390
+15:192  0:000    11. DE5557F8: 'SSDT', 'IsctTabl', Rev: 1, Len: 1401
+15:192  0:000    12. DE555D78: 'BGRT', 'A M I', Rev: 0, Len: 56
+15:192  0:000    Tables in Rsdt: 13
+15:192  0:000    0. DE53B120: 'FACP', 'A M I', Rev: 2, Len: 132
+15:192  0:000        (Dsdt: DE53B1A8, Facs: DE571F40)
+15:192  0:000        DE53B1A8: 'DSDT', 'A M I', Rev: 2, Len: 75718
+15:192  0:000        DE571F40: 'FACS', Ver: 0, Len: 64
+15:192  0:000    1. DE54DA80: 'APIC', 'A M I', Rev: 3, Len: 146
+15:192  0:000    2. DE54DB18: 'FPDT', 'A M I', Rev: 1, Len: 68
+15:192  0:000    3. DE54DB60: 'ASF!', ' HCG', Rev: 32, Len: 165
+15:192  0:000    4. DE54DC08: 'SSDT', 'Ther_Rvp', Rev: 1, Len: 3054
+15:192  0:000    5. DE54E7F8: 'SSDT', 'Cpu0Ist', Rev: 1, Len: 1337
+15:192  0:000    6. DE54ED38: 'SSDT', 'CpuSsdt', Rev: 1, Len: 2932
+15:192  0:000    7. DE54F8B0: 'MCFG', 'A M I', Rev: 1, Len: 60
+15:192  0:000    8. DE54F8F0: 'HPET', 'A M I', Rev: 1, Len: 56
+15:192  0:000    9. DE54F928: 'SSDT', 'SataTabl', Rev: 1, Len: 877
+15:192  0:000    10. DE54FC98: 'SSDT', 'SaSsdt', Rev: 1, Len: 23390
+15:192  0:000    11. DE5557F8: 'SSDT', 'IsctTabl', Rev: 1, Len: 1401
+15:192  0:000    12. DE555D78: 'BGRT', 'A M I', Rev: 0, Len: 56
+15:192  0:000  Found UEFI Acpi 1.0 RSDP at DE53B000
+15:192  0:000  Printing ACPI tables from RSDP DE53B000 ...
+15:192  0:000   DE53B000: 'RSD PTR ', Rev: 2 (Acpi 2.0 or newer), Len: 36
+15:192  0:000    (Xsdt: DE53B088, Rsdt: DE53B028)
+15:192  0:000    DE53B088: 'XSDT', 'A M I', Rev: 1, Len: 140
+15:192  0:000    DE53B028: 'RSDT', 'A M I', Rev: 1, Len: 88
+15:192  0:000    Tables in Xsdt: 13
+15:192  0:000    0. DE54D970: 'FACP', 'A M I', Rev: 5, Len: 268
+15:192  0:000        (Dsdt: DE53B1A8, Facs: DE571F80, XDsdt: DE53B1A8, XFacs: 0)
+15:192  0:000        DE53B1A8: 'DSDT', 'A M I', Rev: 2, Len: 75718
+15:192  0:000        DE571F80: 'FACS', Ver: 2, Len: 64
+15:192  0:000    1. DE54DA80: 'APIC', 'A M I', Rev: 3, Len: 146
+15:192  0:000    2. DE54DB18: 'FPDT', 'A M I', Rev: 1, Len: 68
+15:192  0:000    3. DE54DB60: 'ASF!', ' HCG', Rev: 32, Len: 165
+15:192  0:000    4. DE54DC08: 'SSDT', 'Ther_Rvp', Rev: 1, Len: 3054
+15:192  0:000    5. DE54E7F8: 'SSDT', 'Cpu0Ist', Rev: 1, Len: 1337
+15:192  0:000    6. DE54ED38: 'SSDT', 'CpuSsdt', Rev: 1, Len: 2932
+15:192  0:000    7. DE54F8B0: 'MCFG', 'A M I', Rev: 1, Len: 60
+15:192  0:000    8. DE54F8F0: 'HPET', 'A M I', Rev: 1, Len: 56
+15:192  0:000    9. DE54F928: 'SSDT', 'SataTabl', Rev: 1, Len: 877
+15:192  0:000    10. DE54FC98: 'SSDT', 'SaSsdt', Rev: 1, Len: 23390
+15:192  0:000    11. DE5557F8: 'SSDT', 'IsctTabl', Rev: 1, Len: 1401
+15:192  0:000    12. DE555D78: 'BGRT', 'A M I', Rev: 0, Len: 56
+15:192  0:000    Tables in Rsdt: 13
+15:192  0:000    0. DE53B120: 'FACP', 'A M I', Rev: 2, Len: 132
+15:192  0:000        (Dsdt: DE53B1A8, Facs: DE571F40)
+15:192  0:000        DE53B1A8: 'DSDT', 'A M I', Rev: 2, Len: 75718
+15:192  0:000        DE571F40: 'FACS', Ver: 0, Len: 64
+15:192  0:000    1. DE54DA80: 'APIC', 'A M I', Rev: 3, Len: 146
+15:192  0:000    2. DE54DB18: 'FPDT', 'A M I', Rev: 1, Len: 68
+15:192  0:000    3. DE54DB60: 'ASF!', ' HCG', Rev: 32, Len: 165
+15:192  0:000    4. DE54DC08: 'SSDT', 'Ther_Rvp', Rev: 1, Len: 3054
+15:192  0:000    5. DE54E7F8: 'SSDT', 'Cpu0Ist', Rev: 1, Len: 1337
+15:192  0:000    6. DE54ED38: 'SSDT', 'CpuSsdt', Rev: 1, Len: 2932
+15:192  0:000    7. DE54F8B0: 'MCFG', 'A M I', Rev: 1, Len: 60
+15:192  0:000    8. DE54F8F0: 'HPET', 'A M I', Rev: 1, Len: 56
+15:192  0:000    9. DE54F928: 'SSDT', 'SataTabl', Rev: 1, Len: 877
+15:192  0:000    10. DE54FC98: 'SSDT', 'SaSsdt', Rev: 1, Len: 23390
+15:192  0:000    11. DE5557F8: 'SSDT', 'IsctTabl', Rev: 1, Len: 1401
+15:192  0:000    12. DE555D78: 'BGRT', 'A M I', Rev: 0, Len: 56
