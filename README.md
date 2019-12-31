@@ -15,8 +15,7 @@ MSI Z97 G45 GAMING / i7-4770K / RX 580
 - Graphics
 - Ethernet
 - USB 2.0/3.0
-- Firewire Audio w/ Logic Pro X
-- Logic Pro X
+- Firewire Audio, Logic Pro X
 - Sleep
 
 ## Untested
