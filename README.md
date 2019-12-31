@@ -10,6 +10,11 @@ MSI Z97 G45 GAMING / i7-4770K / RX 580
 - Rosewill RC-504 - PCIe FireWire 1394a Card
 - Focusrite Saffire Pro 40 (audio interface)
 
+## macOS
+- Works with High Sierra
+- Works with Mojave (10.14.4)
+- Catalina TBD
+
 ## What works
 - Boot
 - Graphics
