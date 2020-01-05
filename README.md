@@ -13,13 +13,13 @@ MSI Z97 G45 GAMING / i7-4770K / RX 580
 ## macOS
 - Works with High Sierra
 - Works with Mojave (10.14.4)
-- Catalina TBD
+- Works with Catalina (10.15.2)
 
 ## What works
 - Boot
 - Graphics
-- Ethernet
 - USB 2.0/3.0
+- Ethernet (MUST USE AtherosE2200Ethernet **v2.1.0**)
 - Firewire Audio, Logic Pro X
 - Sleep
 
