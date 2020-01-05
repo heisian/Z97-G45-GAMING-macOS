@@ -25,3 +25,6 @@ MSI Z97 G45 GAMING / i7-4770K / RX 580
 
 ## Untested
 - Onboard audio
+
+## Issues
+There is a potential instability (random system freezes) when using the latest BIOS version 2.9. It is recommended that you use the BIOS that comes preloaded with the motherboard (or [download version 2.0 from MSI](https://us.msi.com/Motherboard/support/Z97-G45-GAMING#down-bios)) until more information is gathered.
