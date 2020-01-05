@@ -19,7 +19,7 @@ MSI Z97 G45 GAMING / i7-4770K / RX 580
 - Boot
 - Graphics
 - USB 2.0/3.0
-- Ethernet (MUST USE AtherosE2200Ethernet **v2.1.0**)
+- Ethernet ([**Must use AtherosE2200Ethernet _v2.1.0_**](https://github.com/Mieze/AtherosE2200Ethernet/issues/25))
 - Firewire Audio, Logic Pro X
 - Sleep
 
